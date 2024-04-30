@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently aa student
-- 🌱 I’m currently learning BE CSE 3rd year
+- 🌱 I’m currently learning React
 - 💬 Ask me about ...
 - 📫 How to reach me: nivethithaprema@gmail.com
 - technologies known: Python,HTML,CSS,JavaScript,React
